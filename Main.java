@@ -50,7 +50,6 @@ public class Main {
         System.out.println("Respuestas correctas: " + respuestasCorrectas);
         System.out.println("Respuestas incorrectas: " + respuestasIncorrectas);
         
-        // Cerrar el scanner
         scanner.close();
     }
 }
